@@ -12,5 +12,12 @@
     "password": "pass2",
     "expiresAt": "2025-11-30",
     "allowOffline": false
+  },
+  {
+    "id": "ad74e9a009a77f7d",
+    "username": "anon",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
   }
 ]
