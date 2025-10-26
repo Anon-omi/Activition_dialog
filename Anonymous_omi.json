@@ -7,7 +7,7 @@
     "allowOffline": true
   },
     {
-    "id": "ad74e9a009a77f7d",
+    "id": "6d95fal7c7e40bea",
     "username": "anon",
     "password": "12345",
     "expiresAt": "2026-12-31",
@@ -20,5 +20,4 @@
     "expiresAt": "2025-11-30",
     "allowOffline": false
   }
-  
 ]
