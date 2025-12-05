@@ -96,5 +96,12 @@
     "password": "12345",
     "expiresAt": "2026-12-09",
     "allowOffline": false
+  },
+  {
+    "id": "bc46c0e297a42c85",
+    "username": "maybeli",
+    "password": "12345",
+    "expiresAt": "2026-1-05",
+    "allowOffline": false
   }
 ]
