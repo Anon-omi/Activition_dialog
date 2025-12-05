@@ -68,4 +68,5 @@
     "password": "123",
     "expiresAt": "2026-1-02",
     "allowOffline": false
-  },
+  }
+]
