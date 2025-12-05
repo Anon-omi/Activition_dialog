@@ -4,7 +4,7 @@
     "username": "dpmods",
     "password": "dpmods",
     "expiresAt": "2025-12-31",
-    "allowOffline": true
+    "allowOffline": false 
   },
     {
     "id": "0a99deff25d8edaf",
@@ -25,7 +25,7 @@
     "username": "anon",
     "password": "12345",
     "expiresAt": "2026-12-31",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "20ab1c5bb522f14b",
