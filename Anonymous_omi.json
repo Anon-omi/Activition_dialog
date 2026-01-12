@@ -153,5 +153,12 @@
     "password": "ram123",
     "expiresAt": "2024-12-18",
     "allowOffline": false
+  },
+  {
+    "id": "8915cb2eae4bb9a6",
+    "username": "sohil",
+    "password": "sohil@123",
+    "expiresAt": "2026-01-14",
+    "allowOffline": false
   }
 ]
