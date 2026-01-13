@@ -153,5 +153,12 @@
     "password": "ram123",
     "expiresAt": "2024-12-18",
     "allowOffline": false
+  },
+  {
+    "id": "d357400ce6c1879f",
+    "username": "veer",
+    "password": "veer@123",
+    "expiresAt": "2026-02-11",
+    "allowOffline": false
   }
 ]
