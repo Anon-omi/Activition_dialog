@@ -1,4 +1,4 @@
-[
+hu[
   {
     "id": "2a91f245bf244c2f",
     "username": "siyam",
@@ -7,9 +7,9 @@
     "allowOffline": false 
   },
     {
-    "id": "0a99deff25d8daf",
+    "id": "ad74e9a009a77f7d",
     "username": "anon",
-    "password": "12345",
+    "password": "anon123",
     "expiresAt": "2026-12-31",
     "allowOffline": false
   },
