@@ -115,7 +115,7 @@
     "id": "c0447e9137552e9d",
     "username": "anon",
     "password": "12345",
-    "expiresAt": "2025-12-10",
+    "expiresAt": "2025-12-",
     "allowOffline": false
   },
   {
@@ -165,7 +165,7 @@
     "id": "af1f2f81e7ee476e",
     "username": "surendra",
     "password": "12345",
-    "expiresAt": "2026-02-19",
+    "expiresAt": "2026-02-02",
     "allowOffline": false
   }
 ]
