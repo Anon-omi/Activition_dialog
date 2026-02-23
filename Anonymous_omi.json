@@ -1,19 +1,5 @@
 [
   {
-    "id": "2a91f245bf244c2f",
-    "username": "siyam",
-    "password": "12345",
-    "expiresAt": "2026-01-11",
-    "allowOffline": false 
-  },
-  {
-    "id": "75ea171378a166e8",
-    "username": "shiv",
-    "password": "12345",
-    "expiresAt": "2026-01-30",
-    "allowOffline": false
-  },
-  {
     "id": "ad74e9a009a77f7d",
     "username": "anon",
     "password": "anon1",
@@ -42,13 +28,6 @@
     "allowOffline": false
   },
   {
-    "id": "bf1a4acf328610b0",
-    "username": "dinesh",
-    "password": "12345",
-    "expiresAt": "2026-01-02",
-    "allowOffline": false
-  },
-  {
     "id": "5572e2d8f0c4b5cf",
     "username": "veer",
     "password": "123",
@@ -70,66 +49,10 @@
     "allowOffline": false
   },
   {
-    "id": "cdb93136277761a7",
-    "username": "Brajendra",
-    "password": "1234",
-    "expiresAt": "2026-01-04",
-    "allowOffline": false
-  },
-  {
-    "id": "1107323999796018",
-    "username": "anon",
-    "password": "12345",
-    "expiresAt": "2025-12-08",
-    "allowOffline": false
-  },
-  {
-    "id": "c0447e9137552e9d",
-    "username": "anon",
-    "password": "12345",
-    "expiresAt": "2025-12-01",
-    "allowOffline": false
-  },
-  {
-    "id": "19b6f386393b82be",
-    "username": "bhati",
-    "password": "12345",
-    "expiresAt": "2025-12-25",
-    "allowOffline": false
-  },
-  {
-    "id": "8d7031d4cf5abc5",
-    "username": "Paliwal",
-    "password": "12345",
-    "expiresAt": "2025-12-06",
-    "allowOffline": false
-  },
-  {
-    "id": "06d9d4a7066826c7",
-    "username": "Deepak",
-    "password": "deepak123",
-    "expiresAt": "2026-01-09",
-    "allowOffline": false
-  },
-  {
-    "id": "60c5bbc965518",
-    "username": "sachin",
-    "password": "sachin123",
-    "expiresAt": "2026-01-13",
-    "allowOffline": false
-  },
-  {
-    "id": "d357400ce6c1879f",
-    "username": "pawan",
-    "password": "pawan@123",
-    "expiresAt": "2026-02-11",
-    "allowOffline": false
-  },
-  {
     "id": "2a902cae4c359ad0",
     "username": "surendra",
     "password": "12345",
-    "expiresAt": "2026-05-28",
+    "expiresAt": "2026-02-28",
     "allowOffline": false
   },
   {
@@ -178,7 +101,7 @@
     "id": "53aeea8e1774e088",
     "username": "anon",
     "password": "12345",
-    "expiresAt": "2026-02-24",
+    "expiresAt": "2026-02-25",
     "allowOffline": false
    }
 ]
