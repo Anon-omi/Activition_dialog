@@ -2,7 +2,7 @@
   {
     "id": "ad74e9a009a77f7d",
     "username": "anon",
-    "password": "anon1",
+    "password": "rrrr",
     "expiresAt": "2026-12-31",
     "allowOffline": false
   },
@@ -89,12 +89,5 @@
     "password": "12345",
     "expiresAt": "2026-03-13",
     "allowOffline": false
-    },   
-  {
-    "id": "53aeea8e1774e088",
-    "username": "anon",
-    "password": "12345",
-    "expiresAt": "2026-02-25",
-    "allowOffline": false
-   }
+    },
 ]
