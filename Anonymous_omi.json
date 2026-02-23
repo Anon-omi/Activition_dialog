@@ -77,13 +77,6 @@
     "allowOffline": false
   },
   {
-    "id": "2a902cae4c359ad0",
-    "username": "anon",
-    "password": "anon",
-    "expiresAt": "2026-12-09",
-    "allowOffline": false
-  },
-  {
     "id": "1107323999796018",
     "username": "anon",
     "password": "12345",
@@ -125,14 +118,6 @@
     "expiresAt": "2026-01-13",
     "allowOffline": false
   },
-  
-  {
-    "id": "346527e9bbb31",
-    "username": "ram",
-    "password": "ram123",
-    "expiresAt": "2024-12-18",
-    "allowOffline": false
-  },
   {
     "id": "d357400ce6c1879f",
     "username": "pawan",
@@ -166,13 +151,6 @@
     "username": "prema",
     "password": "12345",
     "expiresAt": "2026-02-28",
-    "allowOffline": false 
-    },
-    {
-    "id": "06412736033cd2d3",
-    "username": "anon",
-    "password": "1234",
-    "expiresAt": "2026-02-23",
     "allowOffline": false 
     },
     {
