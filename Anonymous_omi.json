@@ -56,13 +56,6 @@
     "allowOffline": false
   },
   {
-    "id": "9624b44155a67",
-    "username": "unknown",
-    "password": "12345",
-    "expiresAt": "2027-01-14",
-    "allowOffline": true
-  },  
-  {
     "id": "dc978126ddbbfba8",
     "username": "sachin",
     "password": "123",
