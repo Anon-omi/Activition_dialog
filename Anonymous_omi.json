@@ -24,7 +24,7 @@
     "id": "20ab1c5bb522f14b",
     "username": "netrapal",
     "password": "12345",
-    "expiresAt": "2026-2-30",
+    "expiresAt": "2026-03-02",
     "allowOffline": false
   },
   {
@@ -38,42 +38,42 @@
     "id": "fd096a24c01568f1",
     "username": "anmol",
     "password": "12345",
-    "expiresAt": "2027-2-02",
+    "expiresAt": "2027-02-02",
     "allowOffline": false
   },
   {
     "id": "bf1a4acf328610b0",
     "username": "dinesh",
     "password": "12345",
-    "expiresAt": "2026-1-02",
+    "expiresAt": "2026-01-02",
     "allowOffline": false
   },
   {
     "id": "5572e2d8f0c4b5cf",
     "username": "veer",
     "password": "123",
-    "expiresAt": "2027-1-02",
+    "expiresAt": "2027-01-02",
     "allowOffline": true
   },
   {
     "id": "28b53f0736f199d5",
     "username": "khan",
     "password": "12345",
-    "expiresAt": "2026-3-02",
+    "expiresAt": "2026-03-02",
     "allowOffline": false
   },
   {
     "id": "d15c453c410410cf",
     "username": "jeevendra",
     "password": "12345",
-    "expiresAt": "2026-2-24",
+    "expiresAt": "2026-02-24",
     "allowOffline": false
   },
   {
     "id": "cdb93136277761a7",
     "username": "Brajendra",
     "password": "1234",
-    "expiresAt": "2026-1-04",
+    "expiresAt": "2026-01-04",
     "allowOffline": false
   },
   {
@@ -94,7 +94,7 @@
     "id": "c0447e9137552e9d",
     "username": "anon",
     "password": "12345",
-    "expiresAt": "2025-12-",
+    "expiresAt": "2025-12-01",
     "allowOffline": false
   },
   {
@@ -115,7 +115,7 @@
     "id": "06d9d4a7066826c7",
     "username": "Deepak",
     "password": "deepak123",
-    "expiresAt": "2026-1-09",
+    "expiresAt": "2026-01-09",
     "allowOffline": false
   },
   {
@@ -158,7 +158,7 @@
     "id": "dc978126ddbbfba8",
     "username": "sachin",
     "password": "123",
-    "expiresAt": "2026-02-29",
+    "expiresAt": "2026-02-28",
     "allowOffline": false 
   },
     {
