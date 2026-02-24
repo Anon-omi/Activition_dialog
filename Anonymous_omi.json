@@ -1,6 +1,6 @@
 [
   {
-    "id": "ad74e9a009a77f7d",
+    "id": "2a902cae4c359ad0",
     "username": "anon",
     "password": "rrrr",
     "expiresAt": "2026-12-31",
@@ -46,13 +46,6 @@
     "username": "jeevendra",
     "password": "12345",
     "expiresAt": "2026-02-24",
-    "allowOffline": false
-  },
-  {
-    "id": "2a902cae4c359ad0",
-    "username": "surendra",
-    "password": "12345",
-    "expiresAt": "2026-02-28",
     "allowOffline": false
   },
   {
