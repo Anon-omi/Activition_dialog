@@ -108,8 +108,8 @@
     "id": "1b1472b08622881e",
     "username": "Omi",
     "password": "123",
-    "expiresAt": "2026-03-26",
-    "allowOffline": false
+    "expiresAt": "2026-06-26",
+    "allowOffline": true
   },
   {
     "id": "818dbd5a740f3ac9",
