@@ -331,17 +331,25 @@
     "expiresAt": "2026-03-01",
     "allowOffline": false
       },
-        {
+  {
   "id": "c448d2212a08278f",
     "username": "Jitendra",
     "password": "jitendra@123",
     "expiresAt": "2026-03-30",
     "allowOffline": false
-        },
+    },
   {
   "id": "295a2437c72639e4",
     "username": "Narendra",
     "password": "narendra@123",
+    "expiresAt": "2026-03-30",
+    "allowOffline": false
+  },
+    
+  {
+  "id": "a8e2d880ceeb9772",
+    "username": "Chandan",
+    "password": "123",
     "expiresAt": "2026-03-30",
     "allowOffline": false
   }
