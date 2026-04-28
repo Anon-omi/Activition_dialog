@@ -244,6 +244,13 @@
     "password": "123456",
     "expiresAt": "2026-05-10",
     "allowOffline": false
+  },
+   {
+  "id": "27bd06d562b3234c",
+    "username": "anon",
+    "password": "123456",
+    "expiresAt": "2026-05-13",
+    "allowOffline": false
   } 
   
 ]
