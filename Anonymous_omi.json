@@ -129,7 +129,7 @@
     "id": "8ce6e50ee82fad90",
     "username": "chandan",
     "password": "123",
-    "expiresAt": "2026-06-06",
+    "expiresAt": "2026-01-06",
     "allowOffline": false
    },
     {
@@ -536,7 +536,7 @@
     "id": "b2384b0813f73f23",
     "username": "Sonu",
     "password": "123",
-    "expiresAt": "2026-06-09",
+    "expiresAt": "2026-01-09",
     "allowOffline": false
     },
     {
@@ -564,7 +564,7 @@
     "id": "b72a96d8da160868",
     "username": "Vijay",
     "password": "123",
-    "expiresAt": "2026-06-10",
+    "expiresAt": "2026-01-10",
     "allowOffline": false
    },
   {
@@ -578,7 +578,7 @@
     "id": "e866ae5ef13b80af",
     "username": "bharat",
     "password": "123",
-    "expiresAt": "2026-06-10",
+    "expiresAt": "2026-01-10",
     "allowOffline": false
   },
     {
@@ -592,7 +592,7 @@
     "id": "50928eb6f41ae799",
     "username": "Nandlal",
     "password": "123",
-    "expiresAt": "2026-06-10",
+    "expiresAt": "2026-01-10",
     "allowOffline": false
   },
   {
