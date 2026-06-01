@@ -273,18 +273,11 @@
     "expiresAt": "2026-05-28",
     "allowOffline": false
   },
-  {
-  "id": "27bd06d562b3234c",
-    "username": "anon",
-    "password": "123456",
-    "expiresAt": "2026-05-28",
-    "allowOffline": false
-  },
  {
   "id": "6d765e92e925b6b1",
     "username": "Vikas",
     "password": "123456",
-    "expiresAt": "2026-06-02",
+    "expiresAt": "2026-01-02",
     "allowOffline": false
   },
  {
@@ -445,7 +438,7 @@
     "id": "2800d801331237d4",
     "username": "NarendraP",
     "password": "123",
-    "expiresAt": "2026-06-07",
+    "expiresAt": "2026-01-07",
     "allowOffline": false
   },
   {
@@ -459,7 +452,7 @@
     "id": "c27ec05d99c77fce",
     "username": "Giriraj",
     "password": "123",
-    "expiresAt": "2026-06-07",
+    "expiresAt": "2026-01-07",
     "allowOffline": false
   },
   {
@@ -480,21 +473,21 @@
     "id": "36ce84627dd6fa93",
     "username": "DilipS",
     "password": "123",
-    "expiresAt": "2026-06-08",
+    "expiresAt": "2026-01-08",
     "allowOffline": false
   },
   {
     "id": "026975b0de91db8e",
     "username": "Rameshwar",
     "password": "123",
-    "expiresAt": "2026-06-22",
+    "expiresAt": "2026-01-22",
     "allowOffline": false
   },
   {
     "id": "26b17f607cff3c58",
     "username": "Narendra",
     "password": "123",
-    "expiresAt": "2026-06-08",
+    "expiresAt": "2026-01-08",
     "allowOffline": false
   },
     {
@@ -536,7 +529,7 @@
     "id": "2d53800a4d0137be",
     "username": "Viramdev",
     "password": "123",
-    "expiresAt": "2026-06-09",
+    "expiresAt": "2026-01-09",
     "allowOffline": false
   },
     {
@@ -550,7 +543,7 @@
     "id": "8c40cd5ae9ea7616",
     "username": "Ds",
     "password": "123",
-    "expiresAt": "2026-06-09",
+    "expiresAt": "2026-01-09",
     "allowOffline": false
     },
   {
@@ -767,7 +760,7 @@
     "id": "3c6599ed957a79e9",
     "username": "Usman",
     "password": "123",
-    "expiresAt": "2026-06-14",
+    "expiresAt": "2026-01-14",
     "allowOffline": false
   },
     {
@@ -788,14 +781,14 @@
     "id": "27bd06d562b3234c",
     "username": "Avi",
     "password": "12345",
-    "expiresAt": "2026-06-14",
+    "expiresAt": "2026-01-14",
     "allowOffline": false
  },
   {
     "id": "1cddab3435db794b",
     "username": "Dharmendra",
     "password": "12345",
-    "expiresAt": "2026-06-15",
+    "expiresAt": "2026-01-15",
     "allowOffline": false
   },
     {
