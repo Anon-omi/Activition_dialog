@@ -920,7 +920,14 @@
     "password": "12345",
     "expiresAt": "2026-07-06",
     "allowOffline": false
-    }
+    },
+  {
+    "id": "dd244d4e8c414b6e",
+    "username": "Fruti",
+    "password": "12345",
+    "expiresAt": "2026-06-23",
+    "allowOffline": false
+  }
 
 
 
