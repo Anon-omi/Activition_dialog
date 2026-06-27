@@ -687,13 +687,7 @@
     "expiresAt": "2026-06-26",
     "allowOffline": false
   },
-  {
-    "id": "9fb74f61283cb83b",
-    "username": "Pappu",
-    "password": "123",
-    "expiresAt": "2026-06-12",
-    "allowOffline": false
-  },
+  
   {
     "id": "3f6e79ec4f24d551",
     "username": "Santu",
@@ -810,7 +804,7 @@
     "id": "9fb74f61283cb83b",
     "username": "Pappu",
     "password": "12345",
-    "expiresAt": "2026-06-27",
+    "expiresAt": "2026-06-28",
     "allowOffline": false
   },
   {
