@@ -54,7 +54,7 @@
     "username": "Gautam",
     "password": "12345",
     "expiresAt": "2026-06-29",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "68f54ee926183e3a",
