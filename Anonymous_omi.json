@@ -527,13 +527,7 @@
     "expiresAt": "2026-06-24",
     "allowOffline": false
   },
-  {
-    "id": "262a38f44f78800d",
-    "username": "Golu",
-    "password": "123",
-    "expiresAt": "2026-06-16",
-    "allowOffline": false
-  },
+  
   {
     "id": "c27ec05d99c77fce",
     "username": "Giriraj",
@@ -590,13 +584,7 @@
     "expiresAt": "2026-06-23",
     "allowOffline": false
     },
-  {
-    "id": "262a38f44f78800d",
-    "username": "Mahesh",
-    "password": "123",
-    "expiresAt": "2026-06-09",
-    "allowOffline": false
-  },
+  
     {
     "id": "4b112d2f28d05fd9",
     "username": "Nitish",
