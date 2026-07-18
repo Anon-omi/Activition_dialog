@@ -13,14 +13,7 @@
     "expiresAt": "2026-07-30",
     "allowOffline": false
   },
-    {
-    "id": "6d112fb34856b2e4",
-    "username": "Satish",
-    "password": "123",
-    "expiresAt": "2026-07-18",
-    "allowOffline": false
-  },
-    {
+  {
     "id": "6d112fb34856b2e4",
     "username": "Satish",
     "password": "123",
