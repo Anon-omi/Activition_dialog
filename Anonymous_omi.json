@@ -39,8 +39,8 @@
     "id": "1b1472b08622881e",
     "username": "Omi",
     "password": "123",
-    "expiresAt": "2026-12-17",
-    "allowOffline": false
+    "expiresAt": "2027-12-17",
+    "allowOffline": true
   },
     {
     "id": "89ecdcf28efb25ce",
